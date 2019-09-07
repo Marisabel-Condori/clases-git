@@ -1,1 +1,4 @@
 primera clase de git 
+crear el ssh
+entrar a usuarios, nombre de usuario, .ssh
+ssh - keygen -t rsa -b 4096 -c "your_email"
